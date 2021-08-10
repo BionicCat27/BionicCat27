@@ -27,3 +27,6 @@ I have worked with several **frameworks**:
 And I have worked with a couple of APIs:
  - Xero's WorkFlowMax API
  - Bootstrap API
+
+## Want to know more?
+You can contact me at aslan.bennington.barr@gmail.com, or find me on [LinkedIn](https://www.linkedin.com/in/aslan-bennington-barr/).
