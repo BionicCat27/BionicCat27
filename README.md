@@ -18,7 +18,6 @@ I have experience in many common **programming languages**:
  - Python
  - SQL
  - PHP
- - 
  
 I have worked with several **frameworks**:
  - Bootstrap
