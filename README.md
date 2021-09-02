@@ -9,23 +9,28 @@ I am always looking to learn and develop my skills, to help contribute to creati
 I have worked on two medium scale web applications, one as a project with peers and another developed as an in-house tool. 
 
 ## Skills
-I have experience in many common **programming languages**:
- - HTML, CSS
- - JavaScript
- - Java
- - C++
- - C
- - Python
- - SQL
- - PHP
- 
-I have worked with several **frameworks**:
- - Bootstrap
- - Ajax
- 
-And I have worked with a couple of APIs:
- - Xero's WorkFlowMax API
- - Bootstrap API
+Web Development
+- Full Stack (HTML, CSS, JavaScript)
+- PHP
+- SQL
+
+Programming Languages
+- C
+- C#
+- C++
+- Java
+- Python
+
+APIs and Technologies
+- Xero's WorkflowMax API
+- Boostrap
+- jQuery
+- AJAX
+
+Other Skills
+- GitHub
+- Bitbucket and Jira
+- Firebase
 
 ## Want to know more?
-You can contact me at aslan.bennington.barr@gmail.com, or find me on [LinkedIn](https://www.linkedin.com/in/aslan-bennington-barr/).
+You can contact me at aslan.bennington.barr@gmail.com, look at my [portfolio website](https://aslan-bennington-barr.vercel.app/) or find me on [LinkedIn](https://www.linkedin.com/in/aslan-bennington-barr/).
