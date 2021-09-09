@@ -5,8 +5,11 @@ I am a student at Victoria University of Wellington, New Zealand. I add to my Gi
 
 I am always looking to learn and develop my skills, to help contribute to creating a better world through technology.
 
+## Project Highlights
+Have a look at my [House Calculator](https://github.com/BionicCat27/HouseCalculator), my [Doomsday Calculator](https://github.com/BionicCat27/Doomsday-Calculator-Web), or my [Priority Tracker](https://github.com/BionicCat27/My-Simple-Priorities-Web).
+
 ## Experience
-I have worked on two medium scale web applications, one as a project with peers and another developed as an in-house tool. 
+I have worked on two medium scale web applications, one as a project with peers and another developed as an in-house project management tool. 
 
 ## Skills
 Web Development
