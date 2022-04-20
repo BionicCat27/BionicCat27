@@ -5,7 +5,7 @@ I'm a student at Victoria University of Wellington, New Zealand, and I'm current
 Have a look at my [House Calculator](https://github.com/BionicCat27/HouseCalculator), my [Doomsday Calculator](https://github.com/BionicCat27/Doomsday-Calculator-Web), or my [Priority Tracker](https://github.com/BionicCat27/My-Simple-Priorities-Web).
 
 ## Experience
-I had a 2021/2022 summer internship at TechTime Initiative Group, worked on an architectural project management tool, and worked on an unreleased web application with peers.
+I had a 2021/2022 summer internship before being offered a permanent part time Junior Developer role at TechTime Initiative Group, worked on a project management tool for an architectural company, and worked on an unreleased web application with peers.
 
 ### Professional Experience with
 Languages
