@@ -7,6 +7,7 @@ Here are a couple of my other tools:
 - [WallpaperManager](https://github.com/BionicCat27/WallpaperManager)
 - [House Calculator](https://github.com/BionicCat27/HouseCalculator)
 - [Doomsday Calculator](https://github.com/BionicCat27/Doomsday-Calculator-Web)
+
 Here is my Advent of Code portfolio:
 - [Advent of Code 23](https://github.com/BionicCat27/adventofcode23)
 
